@@ -1,0 +1,32 @@
+1647777528972:login --username ricardo
+1647777558938:login --username ricardo --password secret
+1647777616425:available commands
+1647777660963:login --passsord ps --username rica
+1647777666784:logout
+1647779331217:login --username ricardo --password df
+1647779336939:logout
+1647779383379:login
+1647779399165:login --username ricardo --passwrod pw
+1647779403027:logout
+1647779517791:login --username ricardo --password
+1647779532372:login --username ricardo --password wer
+1647779554488:logout
+1647779578417:exit
+1647779645294:login --username ricardo --password pw
+1647779665803:login --username ricardo --passord ps
+1647779688075:login --username ricardo --password pw
+1647779692266:logout
+1647779754002:xit
+1647779758042:logout
+1647779762033:exit
+1647779838973:login --username ricardo --password secret
+1647779842441:logout
+1647779942133:login --username ricardo --password ps
+1647779946097:logout
+1647779991356:login --username ricardo --password ps
+1647779996470:logout
+1647784154642:login --password ricado --username ricardo
+1647784165098:clear
+1647784185524:h
+1647784193100:help
+1647784221706:exit
